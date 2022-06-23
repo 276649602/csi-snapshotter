@@ -1,2 +1,2 @@
 # csi-snapshotter
-csi-snapshotter:v5.0.1
+csi-snapshotter:v6.0.1
